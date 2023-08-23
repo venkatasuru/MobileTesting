@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'androidapp/Android-NativeDemoApp-0.2.1.apk'</initValue>
+      <name>G_apkpath</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
